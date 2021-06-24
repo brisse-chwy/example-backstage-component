@@ -3,9 +3,13 @@ kind: Component
 metadata:
   name: pet-cronus
   description: scaffold applications and manage application parameters
+  tags:
+    - go
+    - website
   annotations:
-    jenkins.io/github-folder: 'send-it-1'
+    jenkins.io/github-folder: send-it-1
 spec:
   type: service
-  owner: doloyede@chewy.com
   lifecycle: experimental
+  owner: team-z
+  system: podcast
