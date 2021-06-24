@@ -5,4 +5,4 @@ metadata:
   description: A collection of all Backstage example components
 spec:
   targets:
-    - ./queue-proxy-component.yaml
+    - ./pet-cronus.yaml
